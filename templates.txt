@@ -1,0 +1,16 @@
+<$target>
+<$target>123
+<$target>@123
+<$target>123_123
+<$target>123_<$target>123
+<$target>password
+<$target>321
+<$target>321
+123<$target>
+123_<$target>
+123_<$target>_123
+qwerty<$target>
+june<$target>
+march<$target>
+july<$target>
+password<$target>
